@@ -33,3 +33,4 @@ public static int[] cardGameStrategy(int[] arr) {
 
     return new int[]{player1, player2};
 }
+// two pointer approach 
