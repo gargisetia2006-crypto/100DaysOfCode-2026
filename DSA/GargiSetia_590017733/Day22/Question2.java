@@ -1,4 +1,4 @@
-public public static int[] cardGameStrategy(int[] arr) {
+public static int[] cardGameStrategy(int[] arr) {
 
     int n = arr.length;
 
@@ -32,6 +32,4 @@ public public static int[] cardGameStrategy(int[] arr) {
     }
 
     return new int[]{player1, player2};
-} {
-    
 }
